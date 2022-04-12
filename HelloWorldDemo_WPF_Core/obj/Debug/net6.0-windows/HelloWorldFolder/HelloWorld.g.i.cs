@@ -76,7 +76,7 @@ namespace HelloWorldDemo_WPF_Core.HelloWorldFolder {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HelloWorldDemo_WPF_Core;component/helloworldfolder/helloworld.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HelloWorldDemo_WPF_Core;V1.0.0.0;component/helloworldfolder/helloworld.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\HelloWorldFolder\HelloWorld.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
