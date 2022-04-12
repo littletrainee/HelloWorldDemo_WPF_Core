@@ -10,10 +10,9 @@
         Margin="75,63,0,0" VerticalAlignment="Top" />
     <!-- Print Lable -->
     <Label x:Name="PrintLabel" HorizontalAlignment="Left" Margin="142,63,0,0"
-        VerticalAlignment="Top" />
+        VerticalAlignment="Top" Content="123456" />
     <!-- Button -->
     <Button x:Name="button" Content="Say Hello World" HorizontalAlignment="Left"
         Margin="88,258,0,0" VerticalAlignment="Top" Click="Print" />
-
   </Grid>
 </UserControl>

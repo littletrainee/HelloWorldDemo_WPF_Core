@@ -22,3 +22,5 @@ H:\project\003\HelloWorldDemo_WPF_Core\HelloWorldDemo_WPF_Core\obj\Debug\net6.0-
 H:\project\003\HelloWorldDemo_WPF_Core\HelloWorldDemo_WPF_Core\obj\Debug\net6.0-windows\HelloWorldDemo_WPF_Core.pdb
 H:\project\003\HelloWorldDemo_WPF_Core\HelloWorldDemo_WPF_Core\obj\Debug\net6.0-windows\HelloWorldDemo_WPF_Core.genruntimeconfig.cache
 H:\project\003\HelloWorldDemo_WPF_Core\HelloWorldDemo_WPF_Core\obj\Debug\net6.0-windows\ref\HelloWorldDemo_WPF_Core.dll
+H:\project\003\HelloWorldDemo_WPF_Core\HelloWorldDemo_WPF_Core\obj\Debug\net6.0-windows\CountToTen\CTT.g.cs
+H:\project\003\HelloWorldDemo_WPF_Core\HelloWorldDemo_WPF_Core\obj\Debug\net6.0-windows\CountToTen\CTT.baml

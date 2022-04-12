@@ -4,10 +4,13 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:hw="clr-namespace:HelloWorldDemo_WPF_Core.HelloWorldFolder"
-    mc:Ignorable="d"
-    Title="MainWindow" Height="450" Width="800">
+        xmlns:ctt="clr-namespace:HelloWorldDemo_WPF_Core.CountToTen"
+    mc:Ignorable="d" Title="MainWindow" Height="450" Width="800">
   <Grid>
+  <!-- Hello World -->
     <hw:HelloWorld />
+    <!-- Count To Ten-->
+    <ctt:CTT />
 
   </Grid>
 </Window>

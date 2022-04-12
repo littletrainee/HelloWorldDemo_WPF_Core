@@ -7,11 +7,17 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="CountToTen\CTT.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="HelloWorldFolder\HelloWorld.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="CountToTen\CTT.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="HelloWorldFolder\HelloWorld.xaml">
       <SubType>Designer</SubType>
     </Page>
